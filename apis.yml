@@ -1,8 +1,26 @@
 aid: orolabs
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/orolabs.png
 name: Orolabs
-description: Orolabs is a company surfaced as a portfolio company of felicis, norwest-venture-partners
-  and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the
-  enrichment pipeline.
+description: >-
+  ORO Labs provides an agentic procurement orchestration platform for enterprise
+  spend management. It coordinates people, processes, systems, and data so employees
+  can get what they need without friction, unifying intake management, supplier
+  onboarding and lifecycle, risk and compliance orchestration, and AI-driven workflow
+  automation. The platform offers a no-code workflow builder, a purpose-built agent
+  builder for custom procurement AI agents, and bring-your-own-LLM flexibility, with
+  secure, semantically rich integrations across the procuretech landscape. ORO Labs
+  is backed by Felicis and Norwest Venture Partners.
 url: https://raw.githubusercontent.com/api-evangelist/orolabs/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -13,9 +31,16 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
 tags:
 - Company
+- Procurement
+- Spend Management
+- Supplier Management
+- Agentic AI
+- Workflow Automation
+- Enterprise Software
+- ProcureTech
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -25,3 +50,34 @@ maintainers:
 common:
 - type: Website
   url: https://orolabs.ai
+- type: Blog
+  url: https://blog.orolabs.ai
+- type: BlogRSS
+  url: https://blog.orolabs.ai/rss.xml
+- type: Integrations
+  url: https://orolabs.ai/platform/integrations
+- type: SignUp
+  url: https://orolabs.ai/request-demo
+- type: TermsOfService
+  url: https://orolabs.ai/terms-of-service
+- type: PrivacyPolicy
+  url: https://orolabs.ai/privacy-policy
+- type: TrustCenter
+  url: security/orolabs-trust-center.yml
+- type: Compliance
+  url: https://orolabs.ai/trust
+- type: Security
+  url: https://bugcrowd.com/engagements/oro-labs-vdp-ess
+- type: VulnerabilityDisclosure
+  url: security/orolabs-vulnerability-disclosure.yml
+- type: DomainSecurity
+  url: security/orolabs-domain-security.yml
+- type: WellKnown
+  url: well-known/orolabs-well-known.yml
+- type: SecurityTxt
+  url: well-known/orolabs-security.txt
+x-enrichment:
+  date: '2026-07-20'
+  status: enriched
+  artifacts_added: 5
+  pass: local-v1

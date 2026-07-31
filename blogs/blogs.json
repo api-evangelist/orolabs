@@ -1,0 +1,21 @@
+{
+  "repo": "orolabs",
+  "feeds": [
+    {
+      "source": "https://orolabs.ai",
+      "feed_url": "https://orolabs.ai",
+      "title": "",
+      "saved": 0,
+      "method": "none"
+    },
+    {
+      "source": "https://blog.orolabs.ai",
+      "feed_url": "https://blog.orolabs.ai/rss.xml",
+      "title": "",
+      "saved": 1,
+      "method": "discovered"
+    }
+  ],
+  "post_count": 1,
+  "fetched": "2026-07-25T15:00:33Z"
+}
