@@ -1,0 +1,30 @@
+# Front Door AI Index — orolabs — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: orolabs
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: orolabs.ai
+  final_host: www.orolabs.ai
+  ownership: own
+  owner: orolabs
+  shares_host_with: null
+  inherited_from: null
+  verdict: scored
+  score: 39
+  host_score: 39
+  density: 24.98
+  words: 1561
+  tiers:
+    agentic: 15
+    core: 24
+    model: 0
+  ambiguous: 9
+  top_terms:
+    AI: 21
+    agentic: 11
+    agent: 7
+    AI agent: 4
+    LLMs: 3
+    automation: 2
