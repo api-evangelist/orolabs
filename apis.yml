@@ -48,8 +48,8 @@ tags:
 - Procurement
 - Spend Management
 - Supplier Management
-- Agentic AI
-- Workflow-Automation
+- AI Agents
+- Workflow Automation
 - Enterprise Software
 - ProcureTech
 tags_raw:
@@ -61,6 +61,7 @@ tags_raw:
 - Workflow Automation
 - Enterprise Software
 - ProcureTech
+- Workflow-Automation
 apis: []
 maintainers:
 - FN: Kin Lane
